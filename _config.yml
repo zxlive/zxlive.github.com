@@ -22,15 +22,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: zxlive
 # Build settings
-<<<<<<< HEAD
-markdown: kramdown
-theme: minima
-=======
 
 markdown: kramdown
 theme: jekyll-theme-cayman
 #theme: minima
->>>>>>> 8f3885e8180df660fa78aac1cd8cc57fa5cc79f5
+
 gems:
   - jekyll-feed
 exclude:

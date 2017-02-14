@@ -25,9 +25,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-cayman
 markdown: kramdown
-#theme: minima
+theme: minima
 gems:
   - jekyll-feed
 exclude:

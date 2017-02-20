@@ -1,10 +1,10 @@
 # Site settings
-title: OpenIAS
-email: hello@openias.org
+title: 晓龙的博客
+email: sky@itoytoy.com
 description: >
-  An experiment in online research collaboration.
+  为儿女和自己而写。记录产品，时间管理，读书感想。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.openias.org" # the base hostname & protocol for your site
+url: "https://zxlive.github.io" # the base hostname & protocol for your site
 enable_retina: false
 permalink: :title
 nav_list:
@@ -12,7 +12,7 @@ nav_list:
   About : ['About', '/about', 'fa-anchor']
   Contact : ['Contact', '/contact', 'fa-plane']
   Author : ['Author', '/author/bjorn', 'fa-user']
-single_footer: '<p>Copyright &copy; 2016 <a href="/">latest posts</a></p>'
+single_footer: '<p>Copyright &copy; 2017 <a href="/">latest posts</a></p>'
 footer_links:
   About: ['About', '/about']
 

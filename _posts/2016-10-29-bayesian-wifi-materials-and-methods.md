@@ -2,13 +2,13 @@
 layout: post
 title:  "创业就像游戏"
 date:   2016-10-29 21:19:02 +0200
-categories: wireless
+categories: 创业
 author_name: 晓龙
 author_url: /author/zxl
 author_avatar: zxl
 show_avatar: true
 read_time: 10
-feature_image: feature-wifi-materials
+feature_image: office.png
 ---
 光冲着钱去的创业是不能持久的，
 

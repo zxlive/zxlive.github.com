@@ -7,8 +7,7 @@ author_name: 晓龙
 author_url: /author/zxl
 author_avatar: zxl
 show_avatar: true
-read_time: 10
-feature_image: office.png
+feature_image: office
 ---
 光冲着钱去的创业是不能持久的，
 

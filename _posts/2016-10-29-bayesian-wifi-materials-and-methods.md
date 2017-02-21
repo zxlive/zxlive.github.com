@@ -3,7 +3,7 @@ layout: post
 title:  "创业就像游戏"
 date:   2016-10-29 21:19:02 +0200
 categories: wireless
-author_name: Bj&ouml;rn Smedman
+author_name: 晓龙
 author_url: /author/zxl
 author_avatar: zxl
 show_avatar: true

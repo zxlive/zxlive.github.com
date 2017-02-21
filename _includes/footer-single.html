@@ -7,25 +7,11 @@
             <div class="category-list">
                 <p>Published <span>{{ page.date | date: "%b %-d, %Y" }}</span></p>
                 <p><a href="{{ page.author_url  | prepend: site.baseurl }}">{{ page.author_name | capitalize }}</a> in <a href='{{ "/category/" | append: page.categories.first | prepend: site.baseurl }}'>{{ page.categories.first | capitalize }}</a></p>
-
-                <div class="other-catergories">
-                    <h3>更多文章在</h3>
-
-                    <ul>
-                        {% for category in page.categories %}
-                        <li>
-                            <a href='{{ "/category/" | append: page.categories.first | prepend: site.baseurl }}'>{{ category | capitalize }}</a>
-                            {% if forloop.last %}{% else %},{% endif %}
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-
             </div>
         </div><!-- end col -->
         <div class="col-xs-12 col-sm-4">
             <div class="social">
-                <p>分享这篇文章</a>
+                <p>Share this article</a>
                 <div class="social-links">
                     <a class="social-icon" href="#" data-platform="twitter" data-message="{{ page.social-message }}" data-url="{{ page.url | prepend: site.baseurl | prepend: site.url }}"><i class="fa fa-twitter"></i></a>
 

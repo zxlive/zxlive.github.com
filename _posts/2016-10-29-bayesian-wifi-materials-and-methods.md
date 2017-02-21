@@ -1,11 +1,11 @@
---- 
+---
 layout: post
 title:  "创业就像游戏"
 date:   2016-10-29 21:19:02 +0200
 categories: wireless
 author_name: Bj&ouml;rn Smedman
-author_url: /author/bjorn
-author_avatar: bjorn
+author_url: /author/zxl
+author_avatar: zxl
 show_avatar: true
 read_time: 10
 feature_image: feature-wifi-materials
@@ -19,5 +19,3 @@ feature_image: feature-wifi-materials
 
 
 钱只会让人获得一时的愉悦，但不能持久，最多几个月就会习以为常。
-
-

@@ -2,7 +2,7 @@
 layout: post
 title:  "创业就像游戏"
 date:   2017-02-21
-categories: 创业
+categories: Working
 author_name: 晓龙
 author_url: /author/zxl
 author_avatar: zxl

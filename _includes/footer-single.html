@@ -5,14 +5,13 @@
         </div>
         <div class="col-xs-12 col-sm-6">
             <div class="category-list">
-                <p>Published <span>{{ page.date | date: "%b %-d, %Y" }}</span></p>
+                <p>{{ page.date | date: "%b %-d, %Y" }}</p>
                 <p><a href="{{ page.author_url  | prepend: site.baseurl }}">{{ page.author_name | capitalize }}</a> in <a href='{{ "/category/" | append: page.categories.first | prepend: site.baseurl }}'>{{ page.categories.first | capitalize }}</a></p>
             </div>
         </div><!-- end col -->
         <div class="col-xs-12 col-sm-4">
             <div class="social">
-                <p>Share this article</a>
-                <div class="social-links">
+                <div class="social-links">SHARE
                     <a class="social-icon" href="#" data-platform="twitter" data-message="{{ page.social-message }}" data-url="{{ page.url | prepend: site.baseurl | prepend: site.url }}"><i class="fa fa-twitter"></i></a>
 
                     <a class="social-icon" href="#" data-platform="facebook" data-message="{{ page.social-message }}" data-url="{{ page.url | prepend: site.baseurl | prepend: site.url }}"><i class="fa fa-facebook-official"></i></a>

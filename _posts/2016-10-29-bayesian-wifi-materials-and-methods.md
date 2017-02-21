@@ -6,7 +6,6 @@ categories: 创业
 author_name: 晓龙
 author_url: /author/zxl
 author_avatar: zxl
-show_avatar: false
 feature_image: office
 ---
 光冲着钱去的创业是不能持久的，
